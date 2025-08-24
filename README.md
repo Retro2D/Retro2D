@@ -2,7 +2,7 @@
 I am Retro2D!
 I am Retro2D, a young self-tought coder and thinker.  
 I am currently learning Python, web development(JS, CSS, Html), and C/C++.
-I also am pretty good at coding in Scratch, you can find me there under the username "Retro2D"
+I also am pretty good at coding in Scratch, you can find me there under the username "Retro2D".
 That's all, bye! ^o^
 
 <!--
