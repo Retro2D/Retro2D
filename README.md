@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I am Retro2D!
+I am Retro2D!
 
 <!--
 **Retro2D/Retro2D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
